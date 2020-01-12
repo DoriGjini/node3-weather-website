@@ -1,4 +1,4 @@
-console.log('Client side javascrip is loaded!')
+
 
 
 
